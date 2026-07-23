@@ -157,14 +157,11 @@
 
 ---
 
-# 🐍 Contribution Snake
+#  🐍 GitHub Activity Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/harshZ-aiml/harshZ-aiml/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/harshZ-aiml/harshZ-aiml/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
 ---
 
 # 📊 Profile Views
