@@ -122,11 +122,11 @@
 # 📊 GitHub Stats
 
 <p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=harshZ-aiml&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshZ-aiml&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshZ-aiml&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshZ-aiml&layout=compact&theme=tokyonight" />
 </p>
 
 ---
