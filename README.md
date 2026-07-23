@@ -43,21 +43,21 @@
 
 
 
-## 🌐 Connect With Me
 
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="mailto:harshzinzuwadia10@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 <a href="https://github.com/harshZ-aiml">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://leetcode.com/u/harshz-09/">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" height="45"/>
+<a href="https://leetcode.com/u/harsh9_9/">
+  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" height="45"/>
 </a>
 
 </p>
